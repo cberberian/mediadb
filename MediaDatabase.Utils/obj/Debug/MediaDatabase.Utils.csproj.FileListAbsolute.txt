@@ -1,0 +1,10 @@
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\MediaDatabase.Utils.dll
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\MediaDatabase.Utils.pdb
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\Lucene.Net.dll
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\Tokenizer.dll
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\Lucene.Net.pdb
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\bin\Debug\Lucene.Net.xml
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\obj\Debug\MediaDatabase.Utils.csprojResolveAssemblyReference.cache
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\obj\Debug\MediaDatabase.Utils.dll
+F:\dev\git\MediaDatabase.Utils.TestTvUtility\MediaDatabase.Utils\obj\Debug\MediaDatabase.Utils.pdb
